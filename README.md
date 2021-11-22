@@ -1,3 +1,7 @@
+# Deploy da plicação 
+
+[Stripe](https://jessica-stripe.netlify.app/) 
+
 # Stripe Clone
 
 Para rodar a aplicação:
@@ -50,7 +54,3 @@ Dentro do arquivo GlobalStyles:
 - este arquivo é o mais indicado para ajustar o root
 
 <hr>
-
-### Framer Motion:
-
-- Biblioteca de animação
