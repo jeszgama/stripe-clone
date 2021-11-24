@@ -1,6 +1,12 @@
-# Deploy da plicação 
+# Aplicação:
 
-[Stripe](https://jessica-stripe.netlify.app/) 
+<a href="https://jessica-stripe.netlify.app/" target="_blank" >Clique aqui para abrir a aplicação do Stripe</a>
+
+![Print1](./public/print1.png)
+
+![Print2](./public/print2.png)
+
+![Print3](./public/print3.png) 
 
 # Stripe Clone
 
