@@ -2,11 +2,18 @@
 
 <a href="https://jessica-stripe.netlify.app/" target="_blank" >Clique aqui para abrir a aplicação do Stripe</a>
 
-![Print1](./public/print1.png)
+### Linguagens utilizadas neste projeto:
+<div>
+  <img align="center" alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
+<br>
+
+### Imagens da página:
 
 ![Print2](./public/print2.png)
 
-![Print3](./public/print3.png) 
+<hr>
 
 # Stripe Clone
 
